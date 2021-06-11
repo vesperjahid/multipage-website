@@ -69,7 +69,7 @@ body {
 
 #page-header {
   height: 200px;
-  background: url('../img/image1.jpg');
+  background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.6)),url('../img/image1.jpeg');
   background-position: 0 -360px;
   background-attachment: fixed;
   color: #fff;
